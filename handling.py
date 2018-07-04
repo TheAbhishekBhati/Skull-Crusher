@@ -16,3 +16,5 @@ except Exception as e:
     print(e)
 except ZeroDivisionError as e:
     print(e)
+    
+    #free eejrnvewvb
